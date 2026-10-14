@@ -1,7 +1,6 @@
 # PIC-to-PIC UART Serial Communication
 
 ![PIC16F877A UART Communication Project](Images/Project_thumbnail.png)
-![Proteus Simulation](Images/Proteus_simulation.png)
 
 ## 📌 Project Overview
 
@@ -67,7 +66,7 @@ PIC_to_PIC_UART/
 
 The project was simulated in Proteus to test serial communication between the two PIC16F877A microcontrollers.
 
-![Proteus Simulation](Images/Proteus_Simulation.png)
+![Proteus Simulation](Images/Proteus_simulation.png)
 
 ## 🎯 Key Learning Outcomes
 
