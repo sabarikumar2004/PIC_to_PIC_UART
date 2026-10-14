@@ -1,6 +1,7 @@
 # PIC-to-PIC UART Serial Communication
 
-![PIC16F877A UART Communication Project](Images/project_thumbnail.png)
+![PIC16F877A UART Communication Project](Images/Project_thumbnail.png)
+![Proteus Simulation](Images/Proteus_simulation.png)
 
 ## 📌 Project Overview
 
